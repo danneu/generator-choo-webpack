@@ -1,6 +1,6 @@
 {
   "name": "generator-choo-webpack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create the minimal Choo + Webpack boilerplate.",
   "repository": "danneu/generator-choo-webpack",
   "author": "Dan Neumann <danrodneu@gmail.com> (https://github.com/danneu)",
